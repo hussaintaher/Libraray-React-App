@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.navsContainer {
+  width: 50%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.nav1 {
+  height: 100px;
+  border-radius: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav2 {
+  height: 100px;
+  border-radius: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
